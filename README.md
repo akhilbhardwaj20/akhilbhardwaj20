@@ -1,4 +1,4 @@
-### Hi there 👋, Akhil Bhardwaj
+###  Akhil Bhardwaj
 #### Backend Development
 I'm Akhil from Rajasthan,India and I am currently open for full time roles in Software Development(Backend). I really enjoy learning languages and frameworks like Springboot and AngularJS. I also enjoy doing problems on Leetcode and Hackerrank.
 
