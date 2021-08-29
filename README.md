@@ -7,7 +7,7 @@ I'm Akhil from Rajasthan,India and I am currently open for full time roles in So
 * ✨Spring
 * 👩‍💻Java Core
 * ❄DSA
-- 🌱 I’m currently learning Angular 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akhilbhardwaj20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akhil-bhardwaj-2a8020147//)  
