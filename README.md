@@ -2,10 +2,12 @@
 #### Backend Development
 I'm Akhil from Rajasthan,India and I am currently open for full time roles in Software Development(Backend). I really enjoy learning languages and frameworks like Springboot and AngularJS. I also enjoy doing problems on Leetcode and Hackerrank in general.
 
-## Skills
-* 💼Angular
-* ✨Spring
-* 👩‍💻Java Core
+## Skills :
+🔷 Languages: Java(Core)
+🔷 Database Technologies: MySQL 
+🔷 Frameworks: Springboot, Hibernate, AngularJS
+🔷 CS Core: Data Structures, Algorithms, DBMS, OOP
+🔷 Competetive Programming: [Leetcode]{https://leetcode.com/akhilb2106/}
 * ❄DSA
 
 
