@@ -7,7 +7,7 @@ I'm Akhil from Rajasthan,India and I am currently open for full time roles in So
 🔷 Database Technologies: MySQL 
 🔷 Frameworks: Springboot, Hibernate, AngularJS
 🔷 CS Core: Data Structures, Algorithms, DBMS, OOP
-🔷 Competetive Programming: [Leetcode]{https://leetcode.com/akhilb2106/}
+🔷 Competetive Programming: [Your Link Here]{ https://leetcode.com/akhilb2106/ }
 * ❄DSA
 
 
