@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Spring technologies**
 
-- ⚡ Fun fact: **I used to refresh myself, by spending time going outdoors, play FIFA & lot more..**
+- ⚡ Fun fact: **I used to refresh myself by spending time going outdoors, play FIFA & lot more..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
