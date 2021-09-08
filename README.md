@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilbhardwaj20&label=Profile%20views&color=0e75b6&style=flat" alt="akhilbhardwaj20" /> </p>
 
-- 🔭 I’m currently working on [Email Web API](https://github.com/akhilbhardwaj20/Email-Web-API)
+- 🔭 I’m currently working on [Email Web API using Angular](https://github.com/akhilbhardwaj20/Email-Web-API)
 
 - 🌱 I’m currently learning **DSA & Backend Technologies**
 
