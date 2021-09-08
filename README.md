@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 🤝 How to reach me [LinkedIN - @AkhilBhardwaj](https://www.linkedin.com/in/akhil-bhardwaj-2a8020147/)
+- 🤝 How to reach me [LinkedIn - @AkhilBhardwaj](https://www.linkedin.com/in/akhil-bhardwaj-2a8020147/)
 
 - 💬 Ask me about **Spring technologies**
 
