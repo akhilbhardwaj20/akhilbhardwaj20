@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhil Bharaddd</h1>
+<h1 align="center">Hi 👋, I'm Akhil ddd</h1>
 <h3 align="center">I am currently open for full time roles in Software Development(Backend). I really enjoy learning languages and frameworks like Springboot and AngularJS. I also enjoy doing problems on Leetcode and Hackerrank in general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilbhardwaj20&label=Profile%20views&color=0e75b6&style=flat" alt="akhilbhardwaj20" /> </p>
