@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akhil Bhardwaj</h1>
-<h3 align="center">I am currently open for full time roles in Software Development(Backend). I really enjoy learning languages and frameworks like Springboot and Hibernate. I also enjoy doing problems on Leetcode and Hackerrank in general.</h3>
+<h3 align="center">I am currently open for full time roles as a Java Developer(SDE-1 Backend). I really enjoy designing and building REST APIs from scratch using frameworks like Springboot and Hibernate. I also enjoy doing problems on Leetcode and code 360 by coding ninjas in general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilbhardwaj20&label=Profile%20views&color=0e75b6&style=flat" alt="akhilbhardwaj20" /> </p>
 
-- 🔭 I’m currently working on [Email Web API using Angular](https://github.com/akhilbhardwaj20/Email-Web-API)
-
-- 🌱 I’m currently learning **DSA & Backend Technologies**
-
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+- 🌱 I am currently having 2+ years of hands-on experience in **DSA & Backend Frameworks like Spring Boot and Hibernate and Databases- Oracle SQL and PostgreSQL**
 
 - 🤝 How to reach me [LinkedIn - @AkhilBhardwaj](https://www.linkedin.com/in/akhil-bhardwaj-2a8020147/)
-
-- 💬 Ask me about **Spring technologies**
 
 - ⚡ Fun fact: **I used to refresh myself by spending time going outdoors, play FIFA & lot more..**
 
