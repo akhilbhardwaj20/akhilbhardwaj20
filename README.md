@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Bhardwaj</h1>
-<h3 align="center">I am currently open for full time roles as a Java Developer(SDE-1 Backend). I am having total experience of 2.6 years in IT of and relevant of 1.6 years as a Java Backend Developer. I really enjoy designing and building REST APIs from scratch using frameworks like Springboot and Hibernate. I also enjoy doing problems on Leetcode and code 360 by coding ninjas in general.</h3>
+<h3 align="center">I am currently open for full time roles as a Java Developer(SDE-1 Backend). I am having total experience of 3 years in IT of and relevant of 2.6 years as a Java Backend Developer. I really enjoy designing and building REST APIs from scratch using frameworks like Springboot and Hibernate. I also enjoy doing problems on Leetcode and code 360 by coding ninjas in general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilbhardwaj20&label=Profile%20views&color=0e75b6&style=flat" alt="akhilbhardwaj20" /> </p>
 
